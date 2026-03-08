@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 Live Demo
-**[View Live Application →](your-link-here)**
+**[View Live Application →](https://sarcasm-detector-ai.streamlit.app/)**
 
 ---
 
@@ -49,23 +49,6 @@ sarcasm-detector/
 └── .gitignore           # Excludes datasets and cache files
 ```
 
----
-
-## 🚀 Local Setup
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/Shreya-Gharat/sarcasm-detector.git
-cd sarcasm-detector
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Run the application
-streamlit run app.py
-```
-
----
 
 ## 💡 What I Learned
 
